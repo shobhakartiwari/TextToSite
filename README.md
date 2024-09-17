@@ -30,7 +30,7 @@ A simple SwiftUI app that converts user input into clickable web links and displ
 
 - Xcode 14 or later.
 - Swift 5.7+.
-- iOS 15.0 or later.
+- iOS 17.0 or later.
 
 ### Installation
 
