@@ -11,10 +11,11 @@ A simple SwiftUI app that converts user input into clickable web links and displ
 ## Screenshots
 
 ### Dropdown and URL List View
-![Dropdown and URL List View](./Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-09-16%20at%2023.52.25.png)
+<img src="https://github.com/user-attachments/assets/7ff2cacf-1e2a-4a6d-9ea8-22a5f6733138" alt="Dropdown and URL List View" width="400"/>
 
 ### WebView Loading the URL
-![WebView Loading the URL](./Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-09-16%20at%2023.52.31.png)
+<img src="https://github.com/user-attachments/assets/6e34eee3-46ea-405c-82f3-a6e367f2099c" alt="WebView Loading the URL" width="400"/>
+
 
 ## How It Works
 
